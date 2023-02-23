@@ -1,0 +1,54 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "image": "assets/images/prostor.jpg",
+      "text": "Название акции lorem",
+      "endData": "12.01.2019"
+    },
+    {
+      "id": 2,
+      "image": "assets/images/onePlusOne.jpg",
+      "text": "Название акции lorem",
+      "endData": "12.01.2019"
+    },
+    {
+      "id": 3,
+      "image": "assets/images/discount30.jpg",
+      "text": "Название акции lorem",
+      "endData": "12.01.2019"
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "logo": "assets/images/foxtrot.svg",
+      "color": "0xFFFE5000"
+    },
+    {
+      "id": 2,
+      "logo": "assets/images/adidas.svg",
+      "color": "0xFFFFFFFF"
+    },
+    {
+      "id": 3,
+      "logo": "assets/images/airlines.svg",
+      "color": "0xFFFFFFFF"
+    },
+    {
+      "id": 4,
+      "logo": "assets/images/reebok.svg",
+      "color": "0xFF0074CD"
+    },
+    {
+      "id": 5,
+      "logo": "assets/images/answer.svg",
+      "color": "0xFFF1B1C8"
+    },
+    {
+      "id": 5,
+      "logo": "assets/images/puma.svg",
+      "color": "0xFF000000"
+    }
+  ]
+}
